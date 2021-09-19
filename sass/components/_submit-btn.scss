@@ -1,0 +1,20 @@
+.submit-btn {
+  display: block;
+  /*   width: 300px;
+  height: 100px; */
+  padding: 3px 5px;
+  border-radius: 2px;
+  border: 1px solid var(--sub-btn-border-color);
+  background-color: var(--sub-btn-bg-color);
+  font-style: var(--sub-btn-font-style);
+  font-weight: 400;
+  font-size: var(--sub-btn-font-size);
+  /*   text-transform: uppercase; */
+  color: var(--sub-btn-font-color);
+  /*   box-shadow: 1 1 1px 1px var(--sub-btn-border-color); */
+  transition: background-color 250ms linear;
+  &:hover,
+  &:focus {
+    background-color: var(--sub-btn-bg-focus-color);
+  }
+}

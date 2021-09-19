@@ -1,0 +1,29 @@
+/* @import "./utils/hidden"; */
+:root {
+  /* ----- Submit Button ----- */
+  --sub-btn-font-color: darkblue;
+  --sub-btn-bg-color: grey;
+  --sub-btn-border-color: lightgrey;
+  --sub-btn-font-style: Roboto, sans-serif;
+  --sub-btn-bg-focus-color: lightblue;
+  /* ----- Action Button ----- */
+}
+
+/* 
+@import "./base/common";
+@import "./base/container"; */
+.submit-btn {
+  display: block;
+  width: 300px;
+  height: 100px;
+  border-radius: 2px;
+  border: 1px solid var(--sub-btn-border-color);
+  background-color: var(--sub-btn-bg-color);
+  font-style: var(--sub-btn-font-style);
+  color: var(--sub-btn-font-color);
+}
+
+.submit-btn:hover, .submit-btn:focus {
+  background-color: var(--sub-btn-bg-focus-color);
+}
+/*# sourceMappingURL=main.css.map */

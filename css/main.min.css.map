@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,KAAK,AAAC,CAEJ,oBAAoB,CAAA,MAAC,CACrB,kBAAkB,CAAA,kBAAC,CACnB,sBAAsB,CAAA,YAAC,CACvB,oBAAoB,CAAA,mBAAC,CACrB,wBAAwB,CAAA,gBAAC,CACzB,mBAAmB,CAAA,KAAC,CACpB,yBAAyB,CAAA,KAAC,CAG3B,ACXD,AAAA,WAAW,AAAC,CACV,OAAO,CAAE,KAAK,CAGd,OAAO,CAAE,OAAO,CAChB,aAAa,CAAE,GAAG,CAClB,MAAM,CAAE,GAAG,CAAC,KAAK,CAAC,2BAA2B,CAC7C,gBAAgB,CAAE,uBAAuB,CACzC,UAAU,CAAE,yBAAyB,CACrC,WAAW,CAAE,GAAG,CAChB,SAAS,CAAE,wBAAwB,CAEnC,KAAK,CAAE,yBAAyB,CAEhC,UAAU,CAAE,6BAA6B,CAK1C,AAnBD,AAeE,WAfS,AAeR,MAAM,CAfT,WAAW,AAgBR,MAAM,AAAC,CACN,gBAAgB,CAAE,6BAA6B,CAChD,AClBH,AAAA,mBAAmB,AAAC,CAClB,UAAU,CAAE,MAAM,CACnB",
+    "sources": [
+        "../sass/main.scss",
+        "../sass/utils/_variables.scss",
+        "../sass/components/_submit-btn.scss",
+        "../sass/layouts/_submit-btn-section.scss"
+    ],
+    "names": [],
+    "file": "main.min.css"
+}
